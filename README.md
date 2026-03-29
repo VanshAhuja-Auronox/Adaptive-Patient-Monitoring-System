@@ -17,11 +17,11 @@ This project is a command-line based intelligent healthcare system that analyzes
 ## How to Run
 
 1. Install dependencies:
-   pip install pandas scikit-learn
+   - pip install pandas scikit-learn
 2. Run model training:
-   python model.py
+   - python model.py
 3. Run the system:
-   python main.py
+   - python main.py
 
 ## Project Structure
 - data_generator.py → dataset creation
