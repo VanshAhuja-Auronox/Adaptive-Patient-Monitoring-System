@@ -152,6 +152,14 @@ Example:
 
 ---
 
+## 📄 Project Report
+
+The complete project report is available in this repository as `Project_Report.pdf`.
+
+If the preview is not visible on GitHub, please download the file and open it locally for full content.
+
+---
+
 ## 🔄 System Workflow
 
 1. User enters patient details  
