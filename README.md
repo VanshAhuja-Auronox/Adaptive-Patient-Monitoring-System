@@ -130,7 +130,7 @@ Temperature: 101 \
 Smoker: 1 \
 Activity: medium \
 Duration: 3 \
-Symptom severity: 7 \
+Symptom severity: 7 
 
 ---
 
@@ -203,9 +203,23 @@ This system can be useful for:
 
 ## 👨‍💻 Author
 
-Vansh Ahuja   
-VIT BHOPAL University \
-[ B.Tech_CSE_HealthInformatics ]
+### Vansh Ahuja  
+🔗 VIT Bhopal University  
+🎓 B.Tech — Computer Science & Engineering (Health Informatics)  
+
+---
+
+💡 **Interests & Focus Areas**
+- 🧠 Artificial Intelligence in Healthcare  
+- 🧬 Bioinformatics & Medical Data Analysis  
+- 📊 Data Structures & Data Science  
+
+---
+
+🚀 **Career Vision**
+To leverage AI and data-driven technologies to revolutionize healthcare systems and improve human life.
+
+
 ---
 
 ## 📢 Important Note
