@@ -1,8 +1,8 @@
-# 🏥 Context-Aware Adaptive Patient Monitoring and Risk Escalation System
+#  Context-Aware Adaptive Patient Monitoring and Risk Escalation System
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a command-line based intelligent healthcare system that analyzes patient health data and predicts the risk level using Machine Learning techniques.
 
@@ -10,7 +10,7 @@ In addition to prediction, the system also applies rule-based logic to identify 
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 In real-life situations, patients often struggle to understand the severity of their symptoms based on vital signs such as blood pressure, heart rate, and oxygen level.
 
@@ -22,7 +22,7 @@ There is a need for a system that can:
 
 ---
 
-## 💡 Solution Approach
+##  Solution Approach
 
 This project uses a **hybrid approach**:
 
@@ -32,7 +32,7 @@ This project uses a **hybrid approach**:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python  
 - pandas  
@@ -41,7 +41,7 @@ This project uses a **hybrid approach**:
 
 ---
 
-## 🧠 AI & ML Concepts Used
+##  AI & ML Concepts Used
 
 - Classification (Decision Tree Model)  
 - Feature-based prediction  
@@ -51,7 +51,7 @@ This project uses a **hybrid approach**:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - data_generator.py → Generates dataset
 - dataset.csv → Patient dataset
 - model.py → Trains ML model
@@ -64,7 +64,7 @@ This project uses a **hybrid approach**:
 
 ---
 
-## 🛠️ Environment Setup
+##  Environment Setup
 
 ### Step 1: Install Python
 
@@ -75,14 +75,14 @@ Check using:
 
 ---
 
-## 📦 Dependencies Installation
+##  Dependencies Installation
 
 Install required libraries:
 - pip install pandas scikit-learn
 
 ---
 
-## ⚙️ Configuration Steps
+##  Configuration Steps
 
 No additional configuration is required.
 
@@ -93,18 +93,18 @@ Ensure all files are in the same folder:
 
 ---
 
-## 🚀 Execution Steps (VERY IMPORTANT)
+##  Execution Steps 
 
 Follow these steps in order:
 
 ---
 
-### 🔹 Step 1: Generate Dataset (Optional)
+###  Step 1: Generate Dataset 
  - python data_generator.py
 
 ---
 
-### 🔹 Step 2: Train the Model
+###  Step 2: Train the Model
  - python model.py
 
 This will create:
@@ -112,12 +112,12 @@ This will create:
 
 ---
 
-### 🔹 Step 3: Run the System
+###  Step 3: Run the System
  - python main.py
    
 ---
 
-## 🧾 Sample Input
+##  Sample Input
 
 
 Age: 50 \
@@ -134,7 +134,7 @@ Symptom severity: 7
 
 ---
 
-## 📊 Output Explanation
+##  Output Explanation
 
 The system provides:
 
@@ -152,7 +152,7 @@ Example:
 
 ---
 
-## 📄 Project Report
+##  Project Report
 
 The complete project report is available in this repository as `Project_Report.pdf`.
 
@@ -160,7 +160,7 @@ If the preview is not visible on GitHub, please download the file and open it lo
 
 ---
 
-## 🔄 System Workflow
+##  System Workflow
 
 1. User enters patient details  
 2. Data is processed and converted  
@@ -171,18 +171,18 @@ If the preview is not visible on GitHub, please download the file and open it lo
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
-✔ Machine learning-based prediction  
-✔ Rule-based decision system  
-✔ Risk scoring mechanism  
-✔ Emergency detection  
-✔ Simple CLI interface  
-✔ Modular code structure  
+* Machine learning-based prediction  
+* Rule-based decision system  
+* Risk scoring mechanism  
+* Emergency detection  
+* Simple CLI interface  
+* Modular code structure  
 
 ---
 
-## 📌 Use Case
+##  Use Case
 
 This system can be useful for:
 - Basic health monitoring  
@@ -192,7 +192,7 @@ This system can be useful for:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Uses synthetic dataset  
 - Not a replacement for medical diagnosis  
@@ -200,7 +200,7 @@ This system can be useful for:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Real hospital dataset integration  
 - GUI-based interface  
@@ -209,28 +209,28 @@ This system can be useful for:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ### Vansh Ahuja  
-🔗 VIT Bhopal University  
-🎓 B.Tech — Computer Science & Engineering (Health Informatics)  
+  VIT Bhopal University  
+  B.Tech — Computer Science & Engineering (Health Informatics)  
 
 ---
 
-💡 **Interests & Focus Areas**
-- 🧠 Artificial Intelligence in Healthcare  
-- 🧬 Bioinformatics & Medical Data Analysis  
-- 📊 Data Structures & Data Science  
+ **Interests & Focus Areas**
+-  Artificial Intelligence in Healthcare  
+-  Bioinformatics & Medical Data Analysis  
+-  Data Structures & Data Science  
 
 ---
 
-🚀 **Career Vision**
-To leverage AI and data-driven technologies to revolutionize healthcare systems and improve human life.
+ **Career Vision**
+ * To leverage AI and data-driven technologies to revolutionize healthcare systems and improve human life.
 
 
 ---
 
-## 📢 Important Note
+##  Important Note
 
 This project is developed for academic purposes to demonstrate the use of AI and Machine Learning concepts in healthcare systems.
 
